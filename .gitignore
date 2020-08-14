@@ -25,6 +25,7 @@ fp-info-cache
 *.xml
 *.csv
 bom/
+nasa-badge
 
 # Gerber nicht committen
 gerber/
@@ -34,3 +35,4 @@ gerbers/
 *.png
 *.jpeg
 *.jpg
+
