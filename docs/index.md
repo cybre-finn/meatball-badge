@@ -25,6 +25,11 @@ Annode(+)
 Die SMD-LEDs beleuchten den roten Vektor und die 5 Sterne von hinten. Dafür müssen die LEDs umgedreht aufgelötet werden. Also so, dass die Beschriftung sichtbar ist. Das ist eigentlich nicht die gedachte Anwendung dieser dieser LEDs. Aufgrund der Form könnte das etwas schwieriger werden. Daher sind ein paar mehr LEDs beigelegt.
 
 ### Butter bei die Fische
+Ganz praktisch ist das iBOM-Tool. Damit kann interaktiv die Bestückung im Browser durchgegangen werden. Es empfiehlt sich, das Tool auf einem grösseren Display aufzurufen.
+
+(IBOM)[ibom]
+
+Nicht vergessen: Die LEDs müssen gedreht werden.
 
 ### Sichterheitshinweis
 Diesem Badge liegt eine Lithium-Batterie bei. Es ist unbedingt darauf zu achten, dass die Kontakte nicht kurzgeschlossen werden und die Batterie niemals beschädigt wird. Die Nutzung geschieht auf eigene Verantwortung.
