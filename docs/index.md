@@ -1,14 +1,14 @@
 # Github pages Test
 Das meatball-badge ist ein PCB-Badge in Form des Nasa-Meatball-Logos.
 
-!()[nasa-badge_back.png]
+!(pcb render of nasa logo shaped pcb badge)[nasa-badge_back.png]
 
 Den Abschnitt "Zusammenbau" vor Beginn bitte komplett durchlesen.
 
 ## Zusammenbau
 Das meatball-badge ist ein SMD-Lötworkshop. SMD/SMT steht für "Surface Mounted Device" oder "Surface Mounted Technology". Im Gegensatz zu THT "Through Hole Technology" werden die Bauteile nicht durch Löcher auf der Platine gesteckt, sondern auf der Platine befestigt.
 Dadurch wird der benötigte Platz reduziert und die Bauteile können maschinell durch sogenannte (Pick-and-Place-Maschinen)[https://en.wikipedia.org/wiki/Pick-and-place_machine] und (Reflow-Öfen)[https://en.wikipedia.org/wiki/Reflow_soldering] befestigt werden.
-!()[https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2013-01-09_14-51-59-elec-31f.jpg/220px-2013-01-09_14-51-59-elec-31f.jpg]
+!(pic of pcb with parts on top)[https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2013-01-09_14-51-59-elec-31f.jpg/220px-2013-01-09_14-51-59-elec-31f.jpg]
 Das händische Löten von SMD kann zuerst etwas schwierig sein und erfordert etwas Übung. Die auf diesem Badge verwendeten Bauteile sind allerdings bis auf die LEDs etwas größere SMD-Varianten. 
 
 Wenn man das noch nie gemacht hat, dann gibts hier eine (Anleitung in Comic-Form)[http://mightyohm.com/files/SMT_Soldering_Its_Easier_Than_You_Think_EN.pdf].
