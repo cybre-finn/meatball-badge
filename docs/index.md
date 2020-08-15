@@ -1,4 +1,3 @@
-# Github pages Test
 Das meatball-badge ist ein PCB-Badge in Form des Nasa-Meatball-Logos.
 
 ![](nasa-badge_front.png)
