@@ -5,10 +5,10 @@ Den Abschnitt "Zusammenbau" vor Beginn bitte komplett durchlesen.
 
 ## Zusammenbau
 Das meatball-badge ist ein SMD-Lötworkshop. SMD/SMT steht für "Surface Mounted Device" oder "Surface Mounted Technology". Im Gegensatz zu THT "Through Hole Technology" werden die Bauteile nicht durch Löcher auf der Platine gesteckt, sondern auf der Platine befestigt.
-Dadurch wird der benötigte Platz reduziert und die Bauteile können maschinell durch sogenannte (Pick-and-Place-Maschinen)[https://en.wikipedia.org/wiki/Pick-and-place_machine] und (Reflow-Öfen)[https://en.wikipedia.org/wiki/Reflow_soldering] befestigt werden.
+Dadurch wird der benötigte Platz reduziert und die Bauteile können maschinell durch sogenannte [Pick-and-Place-Maschinen](https://en.wikipedia.org/wiki/Pick-and-place_machine) und [Reflow-Öfen](https://en.wikipedia.org/wiki/Reflow_soldering) befestigt werden.
 Das händische Löten von SMD kann zuerst etwas schwierig sein und erfordert etwas Übung. Die auf diesem Badge verwendeten Bauteile sind allerdings bis auf die LEDs etwas größere SMD-Varianten. 
 
-Wenn man das noch nie gemacht hat, dann gibts hier eine (Anleitung in Comic-Form)[http://mightyohm.com/files/SMT_Soldering_Its_Easier_Than_You_Think_EN.pdf].
+Wenn man das noch nie gemacht hat, dann gibts hier eine [Anleitung in Comic-Form](http://mightyohm.com/files/SMT_Soldering_Its_Easier_Than_You_Think_EN.pdf).
 
 ### Kathoden- und Annodenseite der LEDs
 Da die SMD-LEDs keine unterschiedlichen Beinlängen haben, wird die Polarität der LED durch einen Aufdruck bestimmt. Bei unseren LEDs ist das ein T-Förmiger aufdruck.
@@ -24,7 +24,7 @@ Die SMD-LEDs beleuchten den roten Vektor und die 5 Sterne von hinten. Dafür mü
 ### Butter bei die Fische
 Ganz praktisch ist das iBOM-Tool. Damit kann interaktiv die Bestückung im Browser durchgegangen werden. Es empfiehlt sich, das Tool auf einem grösseren Display aufzurufen.
 
-(IBOM)[ibom]
+[IBOM](ibom)
 
 Nicht vergessen: Die LEDs müssen gedreht werden.
 
