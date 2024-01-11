@@ -11,6 +11,6 @@ Features:
 
 For (interactive) BOM see the [Instructions page](https://cybre-finn.github.io/meatball-badge/) (german).
 
-!(front render)[nasa-badge_front.png]
+![front render](docs/nasa-badge_front.png)
 
-!(back render)[nasa-badge_back.png]
+![back render](docs/nasa-badge_back.png)
